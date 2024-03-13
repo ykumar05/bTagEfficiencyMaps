@@ -6,4 +6,5 @@ BTagging efficiency requires two numbers to calculate the final weight factor:
 
 Combining these two numbers in a certain fashion provides final bTagging SF. 
 
+Refer to Section 1(a) of https://twiki.cern.ch/twiki/bin/viewauth/CMS/BTagSFMethods for the exact implementation of these numbers. 
 
